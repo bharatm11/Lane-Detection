@@ -6,7 +6,7 @@
 Highway Lane Detection was a course project in the ENPM673 Perception for Autonomous Robots course. The project aims to detect straight and curved lanes on a highway to be used as a sub-system on a driverless vehicle. 
 
 <p align="center">
-<img src="https://github.com/bharatm11/Lane-Detection/blob/master/Hough_lines.jpg">
+<img src="https://github.com/bharatm11/Lane-Detection/blob/master/Output/Hough_lines.jpg">
 </p>
 
 ## Algorithm
