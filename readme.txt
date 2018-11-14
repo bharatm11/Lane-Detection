@@ -11,6 +11,6 @@ Run main.m
 
 
 <p align="center">
-<img src="https://www.youtube.com/watch?v=Tb1lLucDbl0">
+<img src="https://github.com/bharatm11/Lane-Detection/blob/master/Output.mp4">
 </p>
 
